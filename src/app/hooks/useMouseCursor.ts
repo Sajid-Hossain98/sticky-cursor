@@ -10,9 +10,9 @@ export const useMouseCursor = () => {
   };
 
   const smoothMouseOptions = {
-    damping: 20,
-    stiffness: 150,
-    mass: 0.5,
+    damping: 18,
+    stiffness: 220,
+    mass: 0.6,
   };
 
   const smoothMouse = {
